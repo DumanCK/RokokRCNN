@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>latih</folder>
+	<filename>0.jpg</filename>
+	<path>D:\YOLODETECT\latih\0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rokok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>92</ymin>
+			<xmax>238</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
